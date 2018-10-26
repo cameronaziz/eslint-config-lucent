@@ -2,6 +2,7 @@ module.exports = {
   extends: "airbnb",
   parser: "babel-eslint",
   rules: {
+    "import/order": 1,
     "import/first": 1,
     "react/jsx-no-bind": 1,
     "react/sort-comp": 1,
