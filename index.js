@@ -6,7 +6,7 @@ module.exports = {
     "jsx-a11y/label-has-associated-control": 0,
     "jsx-a11y/label-has-for": 0,
     "jsx-a11y/alt-text": 1,
-    "jsx-a11y/heading-had-content": 1,
+    "jsx-a11y/heading-had-content": 0,
     "react/jsx-props-no-multi-spaces": 1,
     "import/order": 1,
     "import/first": 1,
