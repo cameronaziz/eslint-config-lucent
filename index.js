@@ -2,6 +2,12 @@ module.exports = {
   extends: "airbnb",
   parser: "babel-eslint",
   rules: {
+    "consistent-return": 0,
+    "jsx-a11y/label-has-associated-control": 0,
+    "jsx-a11y/label-has-for": 0,
+    "jsx-a11y/alt-text": 1,
+    "jsx-a11y/heading-had-content": 1,
+    "react/jsx-props-no-multi-spaces": 1,
     "import/order": 1,
     "import/first": 1,
     "react/jsx-no-bind": 1,
