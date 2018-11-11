@@ -46,7 +46,6 @@ module.exports = {
     "object-property-newline": 1,
     "react/jsx-wrap-multilines": 1,
     "import/no-duplicates": 1,
-    "jsx-a11y/anchor-has-content": 0,
     "react/button-has-type": 1,
     "no-nested-ternary": 1,
     "spaced-comment": 1,

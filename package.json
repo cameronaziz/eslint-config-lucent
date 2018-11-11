@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lucent",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "An ESLint package based of the Airbnb ESLint package",
   "main": "index.js",
   "repository": {
